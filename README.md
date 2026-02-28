@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+**FlutLab Project:** [Open in FlutLab](https://flutlab.io/editor/ecf1b712-a344-4da3-b0e8-14b7a2102afd)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
